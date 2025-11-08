@@ -10,7 +10,7 @@
 #
 # Author: kent@bci.com
 # License: MIT
-# Repository: https://github.com/yourusername/conditional-dns-macos
+# Repository: https://github.com/bci/Conditional_DNS_macOS
 ################################################################################
 
 set -e  # Exit on error

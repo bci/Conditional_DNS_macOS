@@ -26,7 +26,7 @@ This script automates the configuration of domain-specific DNS resolvers on macO
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/conditional-dns-macos.git
+git clone https://github.com/bci/Conditional_DNS_macOS.git
 cd conditional-dns-macos
 ```
 
