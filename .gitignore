@@ -35,3 +35,6 @@ local-*.sh
 # Sensitive configuration files
 Locasta-Conditional-DNS-orig.sh
 Locasta-Conditional-DNS.sh
+
+# Local scratch config with internal network details; never commit (public repo)
+temp
